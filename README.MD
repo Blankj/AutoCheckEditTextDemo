@@ -1,6 +1,6 @@
-# AutoCheckEditTextDemo
+### 自动正则校验EditText
 Automatically check user's input is correct.  
 
-***Demo Animation***  
+***演示动画如下***  
 
-![autocheckedittextdemo](http://blankj.com/wp-content/uploads/2016/04/acet.gif)
+![autocheckedittextdemo](https://github.com/Blankj/AutoCheckEditTextDemo/blob/master/img/acet.gif)
